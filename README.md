@@ -20,5 +20,3 @@ Este projeto implementa um servidor de autenticação OAuth2 usando **Spring Aut
 - Java 17+
 - Spring Boot 3.1+
 - Maven 3.9+
-
-Consulte o [repositório](https://github.com/marcellopedrosa/auth-server) para detalhes de configuração.
