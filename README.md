@@ -12,7 +12,7 @@
 
 ## 🚫 Importante
 
-- **Não deve estar atrás do API Gateway.**
+- **Deve estar atrás do API Gateway.**
 - **Não deve ter rota registrada no API Gateway.**
 - Deve ser acessível diretamente por apps frontend ou serviços confiáveis.
 
