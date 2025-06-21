@@ -20,3 +20,8 @@ Este projeto implementa um servidor de autenticação OAuth2 usando **Spring Aut
 - Java 17+
 - Spring Boot 3.1+
 - Maven 3.9+
+
+## O Keycloack como Auth Server 
+
+### Configurando acesso ao api-gateway pelo keycloak
+https://github.com/marcellopedrosa/api-gateway-with-keycloak/
