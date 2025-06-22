@@ -1,7 +1,7 @@
 # Auth Server - Spring Authorization Server
 
 - Este projeto implementa um servidor de autenticação OAuth2 usando **Spring Authorization Server**, responsável pela emissão e validação de tokens JWT.
-- Tecnologias para implementação do Auth Server: Keycloak, Okkta, Google, Aws, etc
+- Tecnologias para implementação do Auth Server: Keycloak, Okta, Google, Aws, etc
 
 ## 🔐 Funcionalidades
 
