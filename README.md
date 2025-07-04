@@ -14,7 +14,7 @@
 
 - **Deve estar atrás do API Gateway.**
 - **Não deve ter rota registrada no API Gateway.**
-- **Deve ser acessível diretamente por apps frontend ou serviços confiáveis por proxy revers (ex: NGINX).**
+- **Deve ser acessível diretamente por apps frontend ou serviços confiáveis por proxy reverso (ex: NGINX).**
 
 ## 🧭 Requisitos
 
