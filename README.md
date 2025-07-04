@@ -14,12 +14,12 @@
 
 - **Deve estar atrás do API Gateway.**
 - **Não deve ter rota registrada no API Gateway.**
-- Deve ser acessível diretamente por apps frontend ou serviços confiáveis.
+- **Deve ser acessível diretamente por apps frontend ou serviços confiáveis por proxy revers (ex: NGINX).**
 
 ## 🧭 Requisitos
 
-- Java 17+
-- Spring Boot 3.1+
+- Java 21
+- Spring Boot 3.5+
 - Maven 3.9+
 
 ## O Keycloack como Auth Server 
